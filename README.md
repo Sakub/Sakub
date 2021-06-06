@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Sakub/Sakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a beginner Frontend/JS Developer who wants to find a job after finishing school 🤯
 
-Here are some ideas to get you started:
+#### Favourite Framework: [Vue] 🖖
+#### Current OS: [Artix] 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### I also like creating simple APIs in [Express] 🤫
+
+
+[Vue]: https://vuejs.org/
+[Artix]: https://artixlinux.org/
+[Express]: https://https://expressjs.com/
