@@ -2,7 +2,7 @@
 
 ### I'm a Junior Frontend Developer with 1+ years of commercial experience 🤯
 
-### I'm mostly specialized with maintaing largescale Vue 2 apps made with Vuex 🤓
+### I'm mostly specialized with maintaining largescale Vue 2 apps made with Vuex 🤓
 
 #### Main technology: [Vue] 🖖
 #### Current OS: [Arch] 🐧
