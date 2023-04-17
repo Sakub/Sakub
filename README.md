@@ -4,6 +4,9 @@
 
 ### I'm mostly specialized with maintaining largescale Vue 2 apps made with Vuex 🤓
 
+### Since first half of February 2023 I'm responsible for implementing features in huge ERP System written on top of Angular + RxJS.
+#### What is worth mentioning is that I'm the person who introduced Unit Testing in my team and also developed new approach of writing frontend (mostly concerned on RxJS and state management like in Vuex)
+
 #### Main technology: [Vue] 🖖
 #### Current OS: [Arch] 🐧
 
