@@ -7,8 +7,8 @@
 ### Since first half of February 2023 I'm responsible for implementing features in huge ERP System written on top of Angular + RxJS.
 #### What is worth mentioning is that I'm the person who introduced Unit Testing in my team and also developed new approach of writing frontend (mostly concerned on RxJS and state management like in Vuex)
 
-#### Main technology: [Vue] 🖖
-#### Current OS: [Arch] 🐧
+#### Main technologies: [Vue] 🖖, [Angular]
+#### Current OS: [MacOs] 🍎 (previously [Arch] 🐧)
 
 ##### I also like creating simple APIs in [Express] 🤫
 
@@ -17,4 +17,6 @@
 
 [Vue]: https://vuejs.org/
 [Arch]: https://archlinux.org/
+[MacOs]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [Express]: https://https://expressjs.com/
+[Angular]: https://angular.io
