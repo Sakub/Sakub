@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a Junior Frontend Developer with 1+ years of commercial experience 🤯
+### I'm a Mid Frontend Developer with 1+ years of commercial experience 🤯
 
 ### I'm mostly specialized with maintaining largescale Vue 2 apps made with Vuex 🤓
 
