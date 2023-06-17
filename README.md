@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-### I'm a Mid Frontend Developer with 1+ years of commercial experience 🤯
+## I'm a Mid Frontend Developer with one and a half years of commercial experience. 🤯
 
-### I'm mostly specialized with maintaining largescale Vue 2 apps made with Vuex 🤓
+### Since the first half of February 2023, I'm responsible for implementing features in huge ERP System written on top of Angular + RxJS.
+##### What is worth mentioning is that I'm the person who introduced Unit Testing in my team and also developed a new approach of writing frontend (mostly concerned on RxJS and state management like in Vuex)
+### Also, I have experience in developing Vue 2 + Vuex app, adding features into a Laravel project (frontend and also backend), creating integrations with Microsoft products for internal projects, and lastly, I have experience in task automation with usage of Microsoft PowerAutomate and Microsoft PowerApps.
 
-### Since first half of February 2023 I'm responsible for implementing features in huge ERP System written on top of Angular + RxJS.
-#### What is worth mentioning is that I'm the person who introduced Unit Testing in my team and also developed new approach of writing frontend (mostly concerned on RxJS and state management like in Vuex)
+##### Currently, I'm trying to learn [Rust] and [Vim] so wish me good luck!
 
-#### Main technologies: [Vue] 🖖, [Angular]
-#### Current OS: [MacOs] 🍎 (previously [Arch] 🐧)
-
-##### I also like creating simple APIs in [Express] 🤫
-
-###### As I move out recently I've discovered new passion in me: cooking 👨‍🍳, especially Italian and Asian cousine. This hobby helps a lot if you have a girlfriend, source: trust me bro 😉
-
+##### Main technologies: [Vue] 🖖, [Angular]
+##### Current OS: [MacOs] 🍎 (previously [Arch] 🐧)
 
 [Vue]: https://vuejs.org/
 [Arch]: https://archlinux.org/
 [MacOs]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [Express]: https://https://expressjs.com/
 [Angular]: https://angular.io
+[Vim]: https://vim.org
+[Rust]: https://www.rust-lang.org
