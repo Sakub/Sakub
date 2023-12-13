@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm a Mid Frontend Developer with one and a half years of commercial experience. 🤯
+## I'm a Mid Frontend Developer with almost 2 years of commercial experience. 🤯
 
 ### Since the first half of February 2023, I'm responsible for implementing features in huge ERP System written on top of Angular + RxJS.
 ##### What is worth mentioning is that I'm the person who introduced Unit Testing in my team and also developed a new approach of writing frontend (mostly concerned on RxJS and state management like in Vuex)
